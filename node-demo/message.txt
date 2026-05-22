@@ -1,0 +1,5 @@
+Hello from Node.js!
+This file was created at: 5/22/2026, 3:06:13 PM
+
+This is a demo for the Node Script Lab.
+Node.js can interact with your computer's file system, unlike browser JavaScript.
